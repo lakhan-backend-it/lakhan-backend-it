@@ -37,7 +37,7 @@
 ---
 
 ### 💬 Ask Me About
-- REST APIs with Laravel or Node.js  
+- REST APIs with Node.js  
 - Building backend architecture  
 - Database design (MySQL, MongoDB)  
 - Writing clean & testable code  
